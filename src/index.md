@@ -7,3 +7,5 @@ permalink:
 Test
 
 {% cwd %}
+
+{% dir "." %}
