@@ -6,6 +6,4 @@ permalink:
 
 Test
 
-{% cwd %}
-
-{% dir "." %}
+{% rollup "js/test.js" %}

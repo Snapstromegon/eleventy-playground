@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^1.0.2",
+    "eleventy-plugin-rollup": "^1.2.0-canary.2",
+    "rollup": "^2.79.0"
   }
 }
