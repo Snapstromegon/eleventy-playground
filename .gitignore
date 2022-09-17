@@ -1,0 +1,4 @@
+node_modules
+netlify/functions/possum/**
+!netlify/functions/possum/index.js
+_site
